@@ -1,4 +1,4 @@
-### To gather these insights, answers to the following questions were obtained:
+### To gather insights, answers to the following questions were obtained:
 
 1. Which customers have never placed an order?
 2. What is the average price per dish across all restaurants?
